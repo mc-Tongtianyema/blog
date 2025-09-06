@@ -42,6 +42,11 @@ export let data={
               "slug": "yyyh",
               "title": "雨游颐和",
               "content": "<p>前去北京颐和园游玩，适逢雨。</p>\n<pre><code class=\"hljs language-liter\"><span class=\"hljs-title\"># 雨游颐和</span>\n<span class=\"hljs-author\">作者：星源\n</span>水亦澹澹天亦茫<span class=\"hljs-comment\">，</span>上下烟笼一色苍\n拂风凫鸭浮浪起<span class=\"hljs-comment\">，</span>清波青天轻柳扬\n畔湖随波看草绿<span class=\"hljs-comment\">，</span>穿桥过殿观雕梁\n红绿躁者荷似伞<span class=\"hljs-comment\">，</span>歪斜击叶雨拥忙\n金珠碧宝万寿山<span class=\"hljs-comment\">，</span>黛瓦青砖寂寥旁\n翼者古亭纳景广<span class=\"hljs-comment\">，</span>茫然残世存红墙\n\n</code></pre>\n"
+            },
+            "tdgw": {
+              "slug": "jrg",
+              "title": "击壤歌",
+              "content": "<pre><code class=\"hljs language-liter\"><span class=\"hljs-title\"># 击壤歌</span>\n<span class=\"hljs-author\">作者：【先秦】佚名\n</span>\n太阳升起就去耕作田地\n太阳下山就回家去休息\n凿一眼井就可以有水喝\n耕田劳作就可获取食物\n这样的日子有何不自在\n谁还去羡慕帝王的权力\n</code></pre>\n"
             }
           }
         },
@@ -83,7 +88,7 @@ export let data={
       }
     }
   },
-  "slug": "docs",
+  "slug": "docs"，
   "name": "Blog",
   "detail": "Blog 是一种特别好的写作方式。",
   "file": {
